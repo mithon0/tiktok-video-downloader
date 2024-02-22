@@ -8,4 +8,4 @@
  You can see the video .In this video there are 3 dot for download option.
 
  live site:https://65d740b1752db51dd786f3c8--beamish-mousse-502bfc.netlify.app/
- code: "# tiktok-video-downloader" 
+ code: ["# tiktok-video-downloader" ](https://github.com/mithon0/tiktok-video-downloader.git)
